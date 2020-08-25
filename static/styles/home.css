@@ -1,0 +1,20 @@
+h2{
+    padding-left: 20px;
+}
+
+.weatherText {
+    font-family: 'sans-serif';
+    font-size: 24px;
+}
+
+#weatherSubmit{
+        color: pink;
+    background-color: #fa8072;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#weatherForm{
+    padding: 20 px;
+}
